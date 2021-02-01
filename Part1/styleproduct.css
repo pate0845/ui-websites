@@ -1,0 +1,49 @@
+body {
+    background-color: aqua !important;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.text-new {
+    margin-top: 20px;
+    background: green;
+    width: 43px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.rating {
+    float: left;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+.but-cart {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 10px 24px;
+}
+
+.selector {
+    background-color: lightslategray;
+    color: white;
+    margin-top: 20px;
+}
+
+.home {
+    margin-top: 30px;
+    cursor: pointer;
+    border: none;
+    background-color: green;
+}
